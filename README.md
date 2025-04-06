@@ -36,3 +36,11 @@ The analytical approach of this study consists of 5 steps, such as:
 The dataset used is scrapped from kaggle in .csv (Comma-Separated Values) format. The data consists of 2240 rows with several columns, such as user ids, demographic datas, customer purchasing per product, and campaigns datas.
 
 ---  
+
+## Deck & Dashboards
+
+- 📊 [Presentation / Decks](https://www.canva.com/design/DAGcC6AwBOU/3FkC6X9MdMvgyjV1tyLkYQ/view?utm_content=DAGcC6AwBOU&utm_campaign=designshare&utm_medium=link2&utm_source=unique)
+- 📈 [Interactive Dashboard (Tableau)](https://public.tableau.com/views/Capstone2_17367690282020/Dashboard1?:language=en-GB&:sid=&:redirect=auth&:display_count=n&:origin=viz_share_link)
+
+
+---  

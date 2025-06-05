@@ -1,25 +1,23 @@
-<div align= "center">
-    <h2> SUPERMARKET-STORE-CUSTOMER-ANALYSIS </h2><br>
-</div>
+# SUPERMARKET STORE CUSTOMER ANALYSIS
 
-<p align="center">
-  <img src="https://images.unsplash.com/photo-1586201375761-83865001e17b?auto=format&fit=crop&w=800&q=80" alt="Supermarket Groceries" width="600">
-</p>
+Author : Angga Sukma Budi Darmawan
 
 ## 🌐Overview
 
-A supermarket that sells perishable goods (fruits, meat, fish) and non-perishable goods (gold, wine, sweet products) is aiming to improve its sales performance. The company is currently experiencing difficulties in customer retention and in encouraging more frequent purchases. The average customer recency stands at 49 days, which is considered suboptimal for a supermarket setting. Moreover, the company's marketing initiatives have yielded limited success, as demonstrated by persistently low engagement levels from customers. In one of the previous campaign, the response rate dropped to as low as 1%, with the highest observed rate reaching only 14%, the most recent one.
+A supermarket that sells **perishable goods** (fruits, meat, fish) and **non-perishable goods** (gold, wine, sweet products) is aiming to improve its sales performance. The company is currently experiencing difficulties in **customer retention** and in encouraging more **frequent purchases**. The average **customer recency** stands at **49 days**, which is considered suboptimal for a supermarket setting. Moreover, the company's marketing initiatives have yielded limited success, as demonstrated by persistently **low engagement levels** from customers. In one of the previous campaigns, the **response rate dropped** to as low as 1%, with the highest observed rate reaching only 14%, the most recent one.
 
-Given these performance gaps, the marketing team needs to improve their campaigns by tailoring them to the characteristics of various customer segments. This will help increase purchase frequency and improve customer retention. Therefore, this project attempt to analyze factors affecting purchase frequency and retention, segment customers using RFM analysis, and provide tailored marketing strategy recommendations for each segment.
+Given these performance gaps, the **marketing team** needs to **improve their campaigns** by tailoring them to the characteristics of various **customer segments**. This will help increase purchase frequency and improve customer retention. Therefore, this project attempts to analyze **factors affecting purchase behavior**, segment customers using **RFM analysis**, and provide **tailored marketing strategy recommendations** for each segment.
+
 
 ---
 
 ## 🎯Objective
 
 Extract and analyze key insights from supermarket store data on customer behaviour,
-   - To understand variables that influence purchase frequency and customer retention.<br>
-   - Identify customer segments based on their purchasing behaviour using Recency, Frequency, and Monetary analysis (RFM).<br>
-   - Develop marketing strategy recommendations tailored to each customers segments.<br>
+   - To **understand** variables that influence purchase frequency and customer retention.<br>
+   - **Identify** customer segments based on their purchasing behaviour using Recency, Frequency, and Monetary analysis (RFM).<br>
+   - **Develop** marketing strategy recommendations tailored to each customers segments.<br>
+   
 ---
 
 ## 💡Key Insights
